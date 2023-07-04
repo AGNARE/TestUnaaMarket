@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestUnaaMarket</string>
+    <string name="choice_language">Выберите язык приложения</string>
+    <string name="next_continue">продолжить</string>
+    <string name="kg_language">Кыргызсча</string>
+    <string name="en_language">English</string>
+    <string name="ru_language">Русский</string>
+</resources>
